@@ -6,7 +6,7 @@ This project is a hands-on implementation of a microservices-based e-commerce ap
 
 ## 🖼️ Architecture Diagram
 
-![eMart App Architecture](images/architecture.png)
+![eMart App Architecture](image/architecture.png)
 
 The architecture follows a microservices model with separate containers for:
 - Frontend (Nginx)

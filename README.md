@@ -17,6 +17,20 @@ The architecture follows a microservices model with separate containers for:
 
 ---
 
+## 🧰 VS Code Project Setup
+
+Here’s how the project looks inside Visual Studio Code:
+
+![VS Code Setup](image/vscode_setup.png)
+
+This includes:
+- Project file structure
+- Docker and Vagrant files
+- Integrated terminal
+- Easy navigation and debugging
+
+---
+
 ## 📌 Project Objectives
 
 - Understand microservices architecture

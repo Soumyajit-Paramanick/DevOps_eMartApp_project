@@ -4,6 +4,19 @@ This project is a hands-on implementation of a microservices-based e-commerce ap
 
 ---
 
+## 🖼️ Architecture Diagram
+
+![eMart App Architecture](images/architecture.png)
+
+The architecture follows a microservices model with separate containers for:
+- Frontend (Nginx)
+- Backend application (Java/Tomcat)
+- Database (MySQL)
+- Cache (Memcached)
+- Messaging Queue (RabbitMQ)
+
+---
+
 ## 📌 Project Objectives
 
 - Understand microservices architecture
@@ -16,13 +29,15 @@ This project is a hands-on implementation of a microservices-based e-commerce ap
 
 ## ⚙️ Tech Stack
 
-| Component     | Technology       |
-|---------------|------------------|
-| Frontend      | Nginx            |
-| Application   | Java/Tomcat (Spring Boot) |
-| Database      | MySQL            |
-| Cache         | Memcached        |
-| Messaging     | RabbitMQ         |
-| Containerization | Docker         |
-| Orchestration | Docker Compose   |
-| VM Provisioning | Vagrant        |
+| Component        | Technology              |
+|------------------|--------------------------|
+| Frontend         | Nginx                   |
+| Application      | Java/Tomcat (Spring Boot) |
+| Database         | MySQL                   |
+| Cache            | Memcached               |
+| Messaging Queue  | RabbitMQ                |
+| Containerization | Docker                  |
+| Orchestration    | Docker Compose          |
+| VM Provisioning  | Vagrant                 |
+
+---

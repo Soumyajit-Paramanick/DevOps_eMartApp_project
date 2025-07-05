@@ -1,6 +1,6 @@
 # 🛒 Emart Microservices Project (DevOps Practice)
 
-This project is a hands-on implementation of a microservices-based e-commerce application using Docker and Vagrant. It was built to learn and practice the fundamentals of containerization, networking, orchestration, and troubleshooting in a production-like environment.
+This project is a hands-on implementation of a microservices-based e-commerce application using Docker and Vagrant. It was built to learn and practice the fundamentals of containerization, networking, orchestration, and troubleshooting in a production-like environment. 
 
 ---
 
